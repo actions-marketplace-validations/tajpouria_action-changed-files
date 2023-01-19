@@ -1,4 +1,4 @@
-name: Neo
+name: TajPouria-Neo
 description: Generate a matrix depending on changed files
 inputs:
   pattern:
